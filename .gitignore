@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+VENV/
+*.env
+
+# VSCode or PyCharm settings (optional, but good to include)
+.vscode/
+.idea/
+
+# Test reports
+reports/
+
+# pytest cache
+.cache/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
