@@ -1,1 +1,1 @@
-![Build Status](https://https://github.com/loladeajayi/Selenium_Python_Web/actions/workflows/python-app.yml/badge.svg)
+![Build Status](https://github.com/loladeajayi/Selenium_Python_Web/actions/workflows/python-app.yml/badge.svg)
